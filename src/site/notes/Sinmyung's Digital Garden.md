@@ -3,3 +3,5 @@
 ---
 
 This is the home of my digital garden.
+
+[[What is a digital garden?\|What is a digital garden?]]
